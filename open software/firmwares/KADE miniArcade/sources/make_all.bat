@@ -52,6 +52,10 @@ cd %working_dir%\kade-xbox-custom
 make clean
 make
 
+cd %working_dir%\kade-xbox-32U4
+make clean
+make
+
 cd %working_dir%\kade-rotary-custom
 make clean
 make

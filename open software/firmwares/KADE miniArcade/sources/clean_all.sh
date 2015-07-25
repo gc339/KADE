@@ -18,6 +18,7 @@ FIRMWARE_DIRS=(
     'kade-rotary-custom'
     'kade-wii'
     'kade-xbox-custom'
+    'kade-xbox-32U4'
     'kade-trackball-usbjoy'
     'kade-trackball-mouse'
     'tests/minimus'

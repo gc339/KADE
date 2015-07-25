@@ -114,6 +114,8 @@ import_hex("kade-rotary-custom", os.path.join(sources_folder, "kade-rotary-custo
 import_hex("kade-led-demo",      os.path.join(sources_folder, "kade-led-demo\\kade-led-demo.hex"))
 import_hex("kade-pin-custom",    os.path.join(sources_folder, "kade-pin-custom\\KADE-PIN-CUSTOM.hex"))
 import_hex("kade-xbox-custom",   os.path.join(sources_folder, "kade-xbox-custom\\KADE-XBOX-CUSTOM.hex"))
+import_hex("kade-xbox-32U4",   	 os.path.join(sources_folder, "kade-xbox-32U4\\KADE-XBOX-32U4.hex"))
+
 import_hex("kade-ps3-custom",    os.path.join(sources_folder, "kade-ps3-custom\\KADE-PS3-CUSTOM.hex"))
 import_hex("kade-joy-custom",    os.path.join(sources_folder, "kade-ps3-custom\\KADE-PS3-CUSTOM.hex"))
 import_hex("kade-psx-custom",    os.path.join(sources_folder, "kade-psx-custom\\KADE-PSX-CUSTOM.hex"))
